@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="PdfView">
+        <attr name="filePath" format="string" />
+        <attr name="fileUrl" format="string" />
+
+    </declare-styleable>
+
+
+</resources>
